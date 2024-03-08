@@ -9,3 +9,8 @@ dist/
 node_modules/
 package-lock.json
 # app/css/*
+
+package.json
+gulpfile.js
+scss/
+html/
